@@ -1,0 +1,19 @@
+.odds {
+    background-color: #FF69B4;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odds.cooler {
+    font-size: 24px;
+}
+
+#BigBlue {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#SeaBold {
+    background-color:#90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
